@@ -60,5 +60,5 @@ ${tradutor.texto1[16]}
     'headerType': 6};
   conn.sendMessage(m.chat, buttonMessage, {quoted: m});
 }; 
-handler.command = ['host', 'cafirexos'];
+handler.command = ['hosdst', 'cafirsdfsexos'];
 export default handler;

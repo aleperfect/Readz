@@ -9,7 +9,7 @@ const handler = async (m, {conn}) => {
 
   m.reply(global.terminos);
 };
-handler.customPrefix = /términos y condiciones y privacidad|terminosycondicionesyprivacidad|terminosycondiciones|terminos y condiciones y privacidad|terminos y condiciones|terminos y condiciones|terminos de uso|Terminos de uso|Terminó se uso|términos de uso|Términos de uso|Términos y condiciones/i;
+handler.customPrefix = /términos y condiciones y prsdfivacidad|terminosycondicionesyprivacidsdfsfad|terminosycosfsndiciones|termindsfsos y condiciosdfsfsfsfnes y privacidad|terminos y cosdfsdfsndiciones|terminos sdfsdf condiciones|terminos de sdfsdfuso|Terminossfds de uso|Terminó sesdfsf uso|térmisdfsfnos desfs uso|Términos de sdfsfuso|Términos sdfdsfsdfy condiciones/i;
 handler.command = new RegExp;
 export default handler;
 
